@@ -17,7 +17,7 @@ int main (int argc, char** argv)
     {
         std::cout << "acc=" << acc << std::endl;
         double pi = 0;
-        double mig = -1;
+        double mig = 1;
         for (unsigned long i = 0; i < acc; ++i)
         {
             std::cout << pi << std::endl;
